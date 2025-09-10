@@ -65,7 +65,7 @@ If more data is collected in the future, advanced models (like ARIMA or XGBoost)
    ```
 2. Run the app:
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 
 ---
