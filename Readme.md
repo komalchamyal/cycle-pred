@@ -1,7 +1,9 @@
-# PCOD Cycle Predictor
+# 🩺 PCOD Cycle Predictor
 
-A Streamlit-based application to analyze menstrual cycle data and predict upcoming cycles for PCOD patients.
+A Streamlit-based ML powered application to analyze menstrual cycle data and predict upcoming cycles for PCOD patients.
+Access the live app here: [https://pcod-cycle-prediction.streamlit.app/](https://pcod-cycle-prediction.streamlit.app/)
 
+---
 ---
 
 ## 📌 Overview
